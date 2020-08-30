@@ -20,4 +20,3 @@ class SkillCard extends Component {
     }
     
     export default SkillCard
-    
